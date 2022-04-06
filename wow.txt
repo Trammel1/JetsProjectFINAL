@@ -1,0 +1,5 @@
+PassengerPlane,Cessna 172,188,736,36400
+PassengerPlane,Boeing 757,610,4488,800000
+Uav,Greyeagle MQ-1c,135,454,210000
+Uav,Predator-A,117,675,400000
+Jet,A-10 Thunderbolt,420,2850,118000
